@@ -32,4 +32,7 @@ Here are some key points
 ### **📌 Enhanced Patient Outcomes**
    - **Impact on Patient Care**: Ultimately, the project’s insights can lead to better patient outcomes by informing more precise treatments, improving preventive care, and addressing health disparities.
 
-These points emphasize the value of your Power BI project in improving healthcare delivery and outcomes through data-driven insights and targeted interventions.
+
+### **🎯 Live Dashboard ** 
+   - **https://app.powerbi.com/view?r=eyJrIjoiODlmZWI2NGYtMDU1Zi00MGVlLWJhYjYtZTg5MTAzOWEyMzE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
