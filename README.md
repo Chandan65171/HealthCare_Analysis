@@ -24,6 +24,6 @@ Here are some key points
    - **Impact on Patient Care**: Ultimately, the project’s insights can lead to better patient outcomes by informing more precise treatments, improving preventive care, and addressing health disparities.
 
 
-### **🎯 Live Dashboard ** 
-   - **https://app.powerbi.com/view?r=eyJrIjoiODlmZWI2NGYtMDU1Zi00MGVlLWJhYjYtZTg5MTAzOWEyMzE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### **🎯 Live Dashboard** 
+   - **https://app.powerbi.com/view?r=eyJrIjoiODlmZWI2NGYtMDU1Zi00MGVlLWJhYjYtZTg5MTAzOWEyMzE1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9**
 
